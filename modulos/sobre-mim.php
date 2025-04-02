@@ -1,11 +1,11 @@
-<section id="sobre-mim" class="bg-black3 text-white py-90">
+<section id="sobre-mim" class="rgb text-white py-90">
     <div class="container">
         <div class="col-12">
             <div class="row align-items-center justify-content-center">
                 <div class="col-8">
                     <h2 class="text-center text-white"><i class="fa-solid fa-chart-simple me-3 text-blue"></i>Sobre Mim<i class="fa-solid fa-chart-simple ms-3 text-blue" style="transform: scaleX(-1);"></i></h2>
                 </div>
-                <div class="col-8">
+                <div class="col-8" id="texto-sobre">
                     <p>
                         Me chamo Eduardo, tenho 22 anos e resido em Porto Alegre. Cultivo uma profunda paixão pelo mundo Tech, maravilhando-me constantemente com a interação entre o ser humano e a tecnologia. A forma que criamos, diariamente algo novo, através da lógica, programação e do pensamento abstrato, faz com que eu sinta que estou na área certa.
                     </p>

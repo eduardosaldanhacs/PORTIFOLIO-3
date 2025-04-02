@@ -1,4 +1,4 @@
-<section id="projetos" class="bg-black2">
+<section id="projetos" class="bg-blur py-135">
         <div class="container">
             <div class="col-12">
                 <div class="row py-5">
@@ -6,7 +6,7 @@
                     <div class="col-4">
                         <div class="d-flex flex-column justify-content-center align-items-center mt-5">
                             <span class="text-blue fw-bold">LOLCHAMPIONS</span>
-                            <img src="imagens/perfil.jpeg" alt="" class="img-fluid py-2">
+                            <img src="imagens/perfil.jpeg" alt="" class="img-fluid py-2 radius-50">
                             <span class="text-white">Repositório: <a href="" class="text-blue fw-bold">Clique aqui</a></span>
                             <span class="text-white">Aplicação no ar: <a href="" class="text-blue fw-bold">Clique aqui</a></span>
                         </div>
@@ -14,7 +14,7 @@
                     <div class="col-4">
                         <div class="d-flex flex-column justify-content-center align-items-center mt-5">
                             <span class="text-blue fw-bold">LOLCHAMPIONS</span>
-                            <img src="imagens/perfil.jpeg" alt="" class="img-fluid py-2">
+                            <img src="imagens/perfil.jpeg" alt="" class="img-fluid py-2 radius-50">
                             <span class="text-white">Repositório: <a href="" class="text-blue fw-bold">Clique aqui</a></span>
                             <span class="text-white">Aplicação no ar: <a href="" class="text-blue fw-bold">Clique aqui</a></span>
                         </div>
@@ -22,7 +22,7 @@
                     <div class="col-4">
                         <div class="d-flex flex-column justify-content-center align-items-center mt-5">
                             <span class="text-blue fw-bold">LOLCHAMPIONS</span>
-                            <img src="imagens/perfil.jpeg" alt="" class="img-fluid py-2">
+                            <img src="imagens/perfil.jpeg" alt="" class="img-fluid py-2 radius-50">
                             <span class="text-white">Repositório: <a href="" class="text-blue fw-bold">Clique aqui</a></span>
                             <span class="text-white">Aplicação no ar: <a href="" class="text-blue fw-bold">Clique aqui</a></span>
                         </div>

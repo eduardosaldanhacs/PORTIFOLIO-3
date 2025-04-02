@@ -1,4 +1,4 @@
-<section id="certificacoes" class="bg-black2">
+<section id="certificacoes" class="bg-black2 border-top-blue">
         <div class="container">
             <div class="col-12">
                 <div class="row py-5 justify-content-evenly">
